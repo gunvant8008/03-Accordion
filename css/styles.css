@@ -16,10 +16,10 @@ p {
 img:first-of-type {
   width: 50%;
 }
-span {
+/* span {
   font-weight: bolder;
   font-size: 150%;
-}
+} */
 
 .background {
   background-color: rgb(233, 191, 114);

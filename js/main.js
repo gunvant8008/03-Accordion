@@ -12,9 +12,7 @@ accordion.addEventListener('click', event => {
         // select closest menu div, then apply class
         const menu = headingsDiv.closest('.menu')
         menu.classList.toggle('menu-open')
-    } else {
-        // ... get lost
-    }
+    } 
     // 1. can we get the info about the clicked element, target
     // 2. Check whether the clicked element has any parent with class 'headings'
     // If so, toggle the open class
